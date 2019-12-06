@@ -1,0 +1,3 @@
+For this file to work You will need to have the initail file called Yelema.zip which is located also in this folder ... it populates 
+the database named YELEMA with one M other wise this wont work ... and it will take u a lot of time to figure out how it works and the 
+yelema.zip file should go where ever this folder goes
